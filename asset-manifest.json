@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/login-form/static/css/main.ed3ad67e.chunk.css",
+    "main.js": "/login-form/static/js/main.80b8edee.chunk.js",
+    "main.js.map": "/login-form/static/js/main.80b8edee.chunk.js.map",
+    "runtime-main.js": "/login-form/static/js/runtime-main.e9d1caa1.js",
+    "runtime-main.js.map": "/login-form/static/js/runtime-main.e9d1caa1.js.map",
+    "static/js/2.d03ce6b6.chunk.js": "/login-form/static/js/2.d03ce6b6.chunk.js",
+    "static/js/2.d03ce6b6.chunk.js.map": "/login-form/static/js/2.d03ce6b6.chunk.js.map",
+    "static/js/3.f26d8269.chunk.js": "/login-form/static/js/3.f26d8269.chunk.js",
+    "static/js/3.f26d8269.chunk.js.map": "/login-form/static/js/3.f26d8269.chunk.js.map",
+    "index.html": "/login-form/index.html",
+    "static/css/main.ed3ad67e.chunk.css.map": "/login-form/static/css/main.ed3ad67e.chunk.css.map",
+    "static/js/2.d03ce6b6.chunk.js.LICENSE.txt": "/login-form/static/js/2.d03ce6b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9d1caa1.js",
+    "static/js/2.d03ce6b6.chunk.js",
+    "static/css/main.ed3ad67e.chunk.css",
+    "static/js/main.80b8edee.chunk.js"
+  ]
+}
