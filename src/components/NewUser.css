@@ -1,0 +1,28 @@
+.new-user{
+    background-color: bisque;
+   padding: 2rem ;
+    margin: 2rem auto;
+    width: 40%;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+   
+    
+}
+.new-user button{
+    background-color:lightcoral;
+    padding: 0.5rem 2rem;
+    font: inherit;
+    border: 1px solid rgb(41, 23, 23) ;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 12px;
+ 
+
+    
+}
+
+.new-user button:hover{
+    color: rgb(151, 16, 16);
+    background-color: saddlebrown;
+}
